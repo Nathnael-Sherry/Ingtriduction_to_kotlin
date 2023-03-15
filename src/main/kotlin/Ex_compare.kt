@@ -11,6 +11,6 @@ fun main(args: Array<String>) {
     }else if (number == 3){
         print("UnlimiNET Combo")}
     else{
-        print("Kopa")
+        print("Invalid Character")
     }
 }
