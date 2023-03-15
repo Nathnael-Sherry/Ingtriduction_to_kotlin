@@ -9,7 +9,7 @@ fun main(args: Array<String>) {
     } else if (number == 2) {
         print("Tubonge + ALLNET")
     }else if (number == 3){
-        print("Unliminet Combo")}
+        print("UnlimiNET Combo")}
     else{
         print("Kopa")
     }
