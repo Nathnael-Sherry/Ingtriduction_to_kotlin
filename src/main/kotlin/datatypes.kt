@@ -1,17 +1,17 @@
 fun main(args: Array<String>) {
 //    Int
-    var age = 20
+//    var age = 20
     var age:Int = 20
 
 //    strings
-    var name = "greg"
+//    var name = "greg"
     var name:String = "Dj Bash"
 
 //    Char
     var cit = 'J'
 
 //    Booleans
-    var status = true
+//    var status = true
     var status = false
 
 //    Double
