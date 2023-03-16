@@ -20,6 +20,6 @@ fun main(args: Array<String>) {
         print("__Be Serious__")}
     else {
         print("E")
-        print("__revisit your books__")
+        print("__Offspring revisit your books__")
     }
 }
